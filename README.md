@@ -1,4 +1,7 @@
 # A03
 
-## What are "GIT" and "GITHUB?"
-*Git* is a popular version control software that allows programmers to share and work on programs. On the other hand, *GitHub* is simply a website that serves as a medium for Git, allowing people to access and utilize the software. On GitHub, projects come in the form of *repositories*, which store any file that is essential to the project in mind.
+## What Are "GIT" and "GITHUB?"
+*Git* is a popular version control software that allows programmers to share and work on programs. On the other hand, *GitHub* is simply a website that serves as a medium for Git, allowing people to access and utilize the software.
+
+## The Ins and Outs of Repositories
+On GitHub, projects come in the form of *repositories*, which store any file that is essential to the project in mind. If you would want a local copy of a repository, you would have to *clone* it, which would copy the existing repository to your computer. Whenever you want to save changes made to a repository, you would have to make a *commit*. When you make a commit, a *push* (basically a send) occurs, which updates your repository (on GitHub in this case) with the new changes. After your commit is made, you can authorize a *pull* request, which would allow others to peer review your code against their pre-existing version and *merge* it with their main *branch*. On the subject of merging and branches, when you create a repository on GitHub, a master branch is created, which can be viewed as a big clump of Play-Doh. When you make another branch, you're taking a copy of your master branch (like an identical jar of Play-Doh) and changing it at your own whim. Afterwards, when play-time is over and you've added some stuff to your other branch, you can merge that branch back to your master branch just like clumping Play-Doh together.
